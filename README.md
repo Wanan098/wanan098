@@ -44,4 +44,4 @@ I have developed many successful sites so far with mentioned skills.
 
 
 
-⭐️ From [SmartNinja](https://github.com/DevSCNinja)
+⭐️ From [RockDev](https://github.com/chainGossip)
