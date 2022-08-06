@@ -19,7 +19,7 @@ I have developed many successful sites so far with mentioned skills.
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 💬 Telegram : [@CryptoOmni](https://t.me/CryptoOmni)
+- 💬 Telegram : [@RockStar88888](https://t.me/RockStar88888)
 - 💬 Discord: Rock888#5186
 - 📝 Email : superdev1028@gmail.com
 
