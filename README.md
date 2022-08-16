@@ -4,7 +4,7 @@
 
 Hi,👋🏽 I'm RockDev, a Blockchain Core & Full Stack Engineer 🚀, currently, I have rich experience with new App-chain development, DEFI and NFT marketplace on EVM, Cosmos, Polkadot ecosystem.
 
-####       ![](https://img.shields.io/badge/SmartContract-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Substrate&Polkadot-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Cosmos-SDK&Tendermint-Core-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Defi-Strategy-%7C-ff69b4) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
+####       ![](https://img.shields.io/badge/SmartContract-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Substrate&Polkadot-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/CosmosSDK&TendermintCore-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Defi-Strategy-%7C-ff69b4) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
 
 
  <div>
