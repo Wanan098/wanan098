@@ -25,6 +25,7 @@ Hi,👋🏽 I'm RockDev, a Blockchain Core & Full Stack Engineer 🚀, currently
  - Node, Laravel
  - Javascript, React, Vue
  - Git CI/CD, Unit test
+ - Docker, AWS
 
 **Languages and Tools:**   
 <table>
@@ -45,6 +46,3 @@ Hi,👋🏽 I'm RockDev, a Blockchain Core & Full Stack Engineer 🚀, currently
 </table>
 
 
-
-
-⭐️ From [RockDev](https://github.com/chainGossip)
