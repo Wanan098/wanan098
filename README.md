@@ -13,18 +13,18 @@ Hi,👋🏽 I'm RockDev, a Blockchain Core & Full Stack Engineer 🚀, currently
 
 **Core Strength:**
 
- -Blockchain Core Logic
- -Cosmos & Tendermint Core
- -Substrate SDK & Polkadot
- -Smart Contract
- -Rust
- -Golang
- -Solidity
- -Haskell
- -Python, Django, FastAPI
- -Node, Laravel
- -Javascript, React, Vue
- -Git CI/CD, Unit test
+ - Blockchain Core Logic
+ - Cosmos & Tendermint Core
+ - Substrate SDK & Polkadot
+ - Smart Contract
+ - Rust
+ - Golang
+ - Solidity
+ - Haskell
+ - Python, Django, FastAPI
+ - Node, Laravel
+ - Javascript, React, Vue
+ - Git CI/CD, Unit test
 
 **Languages and Tools:**   
 <table>
