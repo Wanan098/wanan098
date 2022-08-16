@@ -1,11 +1,10 @@
-### ✨ Legend ✨ Developer 🚀 [Rock Dev](https://t.me/SuperSmart84)  🚀
+### ✨ Legend ✨ Blockchain Core & Protocol Engineer 🚀 Rock Dev 🚀
 
 <br/>
 
-Hi,👋🏽 I'm RockDev, a Blockchain Core & SmartContract and Cryptocurrency Engineer 🚀, currently, I have rich experience with Blockchain, Yield Farming, Smart Contract, DEFI and NFT marketplace. I develop website using Typescript, React.js, Redux, web3.js, Vue.js, Express, Node.js, Laravel and etc.
-I have developed many successful sites so far with mentioned skills.
+Hi,👋🏽 I'm RockDev, a Blockchain Core & Full Stack Engineer 🚀, currently, I have rich experience with new App-chain development, DEFI and NFT marketplace on EVM, Cosmos, Polkadot ecosystem.
 
-####       ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Rust-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Golang-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Python-%7C-ff69b4) ![](https://img.shields.io/badge/Solidity-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Typescript-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
+####       ![](https://img.shields.io/badge/Smart Contract-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Substrate & Polkadot-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Cosmos SDK & Tendermint Core-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Defi Strategy-%7C-ff69b4) ![] ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
 
 
  <div>
